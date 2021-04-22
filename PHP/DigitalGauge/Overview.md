@@ -1,35 +1,35 @@
 ---
 layout: post
-title: Overview
-description: overview
+title: About PHP Digital Gauge Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential PHP Digital Gauge Control, its features, and more.
 platform: php
 control: Digital Gauge
 documentation: ug
 ---
 
-# Overview
+# PHP Digital Gauge Overview
 
 Digital Gauge for Essential Studio encompasses the visualization of the segmented display of both the 7-segment numeric values and the 14-segment alphanumeric characters. It can display the following five kinds of character types:
 
 * Seven Segment
 
-![](/PHP/DigitalGauge/Overview_images/Overview_img2.png)
+![PHP DigitalGauge Overview Image2](Overview_images/Overview_img2.png)
 
 * Fourteen Segment
 
-![](/PHP/DigitalGauge/Overview_images/Overview_img3.png)
+![PHP DigitalGauge Overview Image3](Overview_images/Overview_img3.png)
 
 * Sixteen Segment
 
-![](/PHP/DigitalGauge/Overview_images/Overview_img4.png)
+![PHP DigitalGauge Overview Image4](Overview_images/Overview_img4.png)
 
 * EightCrossEightDotMatrix
 
-![](/PHP/DigitalGauge/Overview_images/Overview_img5.png)
+![PHP DigitalGauge Overview Image5](Overview_images/Overview_img5.png)
 
 * EightCrossEightSquareMatrix
 
-![](/PHP/DigitalGauge/Overview_images/Overview_img6.png)
+![PHP DigitalGauge Overview Image6](Overview_images/Overview_img6.png)
 
 
 

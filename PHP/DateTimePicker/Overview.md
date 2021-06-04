@@ -1,13 +1,13 @@
 ---
 layout: post
-title: DateTimePicker| DateTimePicker  | PHP | Syncfusion
-description: overview
+title: About PHP DateTimePicker Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP DateTimePicker Control, its elements, and more.
 platform: php
 control: DateTimePicker
 documentation: ug
 ---
 
-# Overview
+# PHP DateTimePicker Overview
 
 **EJ PHP DateTimePicker** is a server side control used to input the date and time with a specific format. The DateTimePicker control combines the DatePicker and TimePicker controls so that users can select the date and time in their desired format.
 

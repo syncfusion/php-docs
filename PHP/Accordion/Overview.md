@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview
-description: overview
+title: About PHP Accordion Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP Accordion Control, its elements, and more.
 platform: php
 control: Accordion 
 documentation: ug
 ---
 
-# Overview
+# PHP Accordion Overview
 
 The **Accordion** control is an interface where lists of items can be collapsed or expanded. It has several collapsible panels where only one can be expanded at a time that is useful for dashboards where space is limited. Each **Accordion** control has a template for its header and its content.
 

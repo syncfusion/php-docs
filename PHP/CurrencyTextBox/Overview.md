@@ -1,13 +1,13 @@
 ---
-title: Overview about CurrencyTextBox
-description: overview
+title: About PHP CurrencyTextBox Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP CurrencyTextBox Control, its elements, and more.
 platform: php
 control: CurrencyTextBox
 documentation: ug
 keywords: 
 ---
 
-# Overview
+# PHP CurrencyTextBox Overview
 
 **EJ PHP CurrencyTextBox** component provides all the functionalities that is available in EJ CurrencyTextBox, since it is a server side wrapper of EJ CurrencyTextBox widget. It is used to display only currency values. It has Spin buttons to increase or decrease the values in the Text Box.
 

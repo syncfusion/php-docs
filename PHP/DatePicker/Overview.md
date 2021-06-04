@@ -1,13 +1,13 @@
 ---
-title: Overview about ColorPicker
-description: overview
+title: About PHP Datepicker Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP Datepicker Control, its elements, and more.
 platform: php
-control: ColorPicker
+control: Datepicker
 documentation: ug
 keywords: Datepicker overview, php Datepicker
 ---
 
-# Overview 
+# PHP Datepicker Overview 
 
 **EJ PHP DatePicker** component provides the support for displaying calendar in web page and allows the user to pick or directly enter the date value as like [EJ DatePicker]( http://help.syncfusion.com/js/datepicker/overview), since EJPHP DatePicker is a server side wrapper of EJ DatePicker.
 

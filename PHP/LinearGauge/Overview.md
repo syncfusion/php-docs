@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview
-description: overview
+title: About PHP Linear Gauge Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP Linear Gauge Control, its elements, and more.
 platform: php
 control: Linear Gauge
 documentation: ug
 ---
 
-# Overview
+# PHP Linear Gauge Overview
 
 The Gauge control for Essential Studio displays numerical information in the form of a scale that can be customized and oriented either vertically or horizontally. It comprises the following basic elements:
 

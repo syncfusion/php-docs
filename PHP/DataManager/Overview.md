@@ -1,12 +1,12 @@
 ---
-title: Overview
-description: overview 
+title: About PHP DataManager Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP DataManager Control, its elements, and more.
 platform: php
 control: DataManager
 documentation: ug
 ---
 
-# Overview  
+# PHP DataManager Overview  
 
 The Syncfusion **DataManager** plays a central role in practically all web applications built with Syncfusion UI. It is an abstraction for using local data—arrays of objects—or remote data—web services returning **JSON**, **JSONP**, **oData** or **XML**.
 

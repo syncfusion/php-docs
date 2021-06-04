@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview
-description: overview
+title: About PHP RangeNavigator Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP RangeNavigator Control, its elements, and more.
 platform: js
 control: RangeNavigator
 documentation: ug
 ---
 
-# Overview
+# PHP RangeNavigator Overview
 
 **RangeNavigator** is a data visualization control.  It allows you to scroll and navigate through the data. This control easily combines with other controls such as Chart, GridView, etc., to create rich and powerful dashboards.
 

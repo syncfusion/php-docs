@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview of Essential PHP Chart
-description: What are the key features available in chart.                                                   
+title: About PHP Chart Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP Chart Control, its elements, features, and more.                                            
 platform: php
 control: Chart
 documentation: ug
 ---
 
-# Overview
+# PHP Chart Control Overview
 
 Essential Chart for PHP is a visually stunning Charting component. It includes common Chart types ranging from line Charts to specialized financial Charts.
 

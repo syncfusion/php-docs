@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview
-description: overview
+title: About PHP CheckBox Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP CheckBox Control, its elements, and more.
 platform: PHP
 control: CheckBox
 documentation: ug
 ---
 
-# Overview
+# PHP CheckBox Overview
 
 The **CheckBox** control allows you to check an option to perform an action. This control allows you to select true, false or an intermediate option. These checkboxes are supported with themes.
 

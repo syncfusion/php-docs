@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview
-description: overview
+title: About PHP Circular Gauge Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP Circular Gauge Control, its elements, and more.
 platform: php
 control: Circular Gauge
 documentation: ug
 ---
 
-# Overview
+# PHP Circular Gauge Overview
 
 The **Circular****Gauge** control visualizes the numerical values of scales in a circular manner.  It is also a feature-rich control that provides extensive appearance customization options with support for the animation of a pointer element. The **Circular****Gauge** control comprises the following basic elements:
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview
-description: overview
+title: About PHP BulletGraph Control | Syncfusion
+description: Learn here all about introduction of Syncfusion Essential Studio PHP BulletGraph Control, its elements, and more.
 platform: php
 control: BulletGraph	
 documentation: ug
 ---
 
-# Overview
+# PHP BulletGraph Overview
 
 **BulletGraphs** are easy to interpret and also it conveys much more information to the user by visualizing the data in a small amount of space. It is generally used to compare a primary measure to one or more other measures in the context of qualitative ranges of performance. Occasionally, the **BulletGraphs** are also used to compare the same measure across multiple categories.
 

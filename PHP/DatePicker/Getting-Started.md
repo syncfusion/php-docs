@@ -1,13 +1,13 @@
 ---
 title: Getting Started with DatePicker | DatePicker | PHP | Syncfusion
-description: Getting Started with DatePicker
+description: Learn here all about getting started with Syncfusion Essential PHP DatePicker Control, its elements, and more.
 platform: php
 control: DatePicker
 documentation: ug
 keywords: Datepicker getting started, php Datepicker
 ---
 
-# Getting Started
+# Getting Started with PHP DatePicker
 
 This section explains briefly about the necessary steps required to render and configure EJ DatePicker control using PHP wrapper classes.
 
@@ -16,7 +16,7 @@ Create a PHP Project and add necessary scripts and styles with the help of the g
 
 ## Create DatePicker
 
-Create a DatePicker control by instantiating the PHP wrapper class available in EJ namespace as shown below.
+Create a PHP DatePicker control by instantiating the PHP wrapper class available in EJ namespace as shown below.
 
 {% highlight html %}
 
@@ -29,7 +29,7 @@ Create a DatePicker control by instantiating the PHP wrapper class available in 
 
 The following screenshot illustrates the output of above code.
 
-![](getting-started_images/datePicker.png) 
+![Getting_Started_Image1](getting-started_images/datePicker.png) 
 
 ## Configuring DatePicker
 
@@ -48,7 +48,7 @@ EJ DatePicker provides API through which you can set the maximum and minimum all
 
 The following screenshot illustrates the output of above code.
 
-![](getting-started_images/minmaxDate.png) 
+![Getting_Started_Image2](getting-started_images/minmaxDate.png) 
 
 ## Blackout Dates
 
@@ -65,7 +65,7 @@ You can disable a set of Dates in Datepicker calendar by using this API. Refer t
 
 The following screenshot illustrates the output of above code.
 
-![](getting-started_images/blackout.png) 
+![Getting_Started_Image3](getting-started_images/blackout.png) 
 
 ## Special Dates
 
@@ -90,4 +90,4 @@ The fields API lets you customize the Special dates in calendar.
 
 The following screenshot illustrates the output of above code.
 
-![](getting-started_images/specialdates.png) 
+![Getting_Started_Image4](getting-started_images/specialdates.png) 
